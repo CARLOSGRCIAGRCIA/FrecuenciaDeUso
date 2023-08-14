@@ -4,7 +4,7 @@ Este programa en Java te permite contar la frecuencia de cada palabra en una sec
 
 
 **SDK** corretto 19
-![img.png](img.png)
+![img.png](src/img/sdk.png)
 
 ## Uso
 
